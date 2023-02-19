@@ -1,5 +1,6 @@
 body {
     font-family: roboto, Georgia, Geneva, Sans-serif;
+    margin: 0;
 }
 
 header,
@@ -163,4 +164,12 @@ figcaption {
 
 #p-two {
     color: #f9faf895;
+}
+
+footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
 }
