@@ -63,7 +63,7 @@ button {
 }
 
 .menu {
-    height: 450px;
+    height: 400px;
 }
 
 h2 {
@@ -91,4 +91,33 @@ figure {
 
 figcaption {
     text-align: center;
+}
+
+.attestations {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    padding: 0 150px;
+    
+}
+
+.attestations p {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    margin: 0; 
+    padding: 0;
+    min-width:800px;
+}
+
+#one {
+    font-weight: lighter;
+}
+
+#two { 
+    font-weight: bolder;
+    text-align: right;
 }
