@@ -62,7 +62,7 @@ button {
     border-style: none;
 }
 
-.menu {
+#menu {
     height: 400px;
 }
 
@@ -79,11 +79,11 @@ figure {
     margin: 0 20px;
 }
 
-.menu img {
+#menu img {
     width: 200px;
 }
 
-.menu div {
+#menu div {
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -93,7 +93,7 @@ figcaption {
     text-align: center;
 }
 
-.attestations {
+#attestations {
     height: 400px;
     display: flex;
     flex-direction: column;
@@ -104,7 +104,7 @@ figcaption {
     
 }
 
-.attestations p {
+#attestations p {
     font-size: 36px;
     font-style: italic;
     color: #1f2937;
@@ -122,7 +122,7 @@ figcaption {
     text-align: right;
 }
 
-.action {
+#action {
     height: 250px;
     display: flex;
     justify-content: center;
