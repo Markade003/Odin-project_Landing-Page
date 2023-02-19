@@ -121,3 +121,46 @@ figcaption {
     font-weight: bolder;
     text-align: right;
 }
+
+.action {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: #3882fc;
+    border-radius: 20px;
+    padding: 0 80px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 65%;
+}
+
+.buttons {
+    display: flex;
+}
+
+.container p {
+    margin: 0;
+    padding: 0;
+}
+
+.buttons button {
+    border: 1px solid #f9faf8;
+    align-items: center;
+    color: #f9faf8;
+}
+
+#p-one {
+    font-weight: bold;
+    font-size: 17px;
+    color: #f9faf8
+}
+
+#p-two {
+    color: #f9faf895;
+}
