@@ -61,3 +61,34 @@ button {
     border-radius: 6px;
     border-style: none;
 }
+
+.menu {
+    height: 450px;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    text-align: center;
+    margin: 32px;
+}
+
+figure {
+    width: 200px;
+    margin: 0 20px;
+}
+
+.menu img {
+    width: 200px;
+}
+
+.menu div {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+figcaption {
+    text-align: center;
+}
